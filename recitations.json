@@ -2,6 +2,7 @@
   "reciters": [
     {
       "id": "abdul_basit",
+      "is_default": true,
       "reciter": "Abdul Basit 'Abd us-Samad",
       "style": "Mujawwad",
       "url_template": "https://download.quranicaudio.com/qdc/abdul_baset/mujawwad/{chapNo:%01d}.mp3",
@@ -36,7 +37,6 @@
     },
     {
       "id": "as_sudais",
-      "is_default": true,
       "reciter": "Abdur-Rahman as-Sudais",
       "style": null,
       "url_template": "https://download.quranicaudio.com/qdc/abdurrahmaan_as_sudais/murattal/{chapNo:%01d}.mp3",
